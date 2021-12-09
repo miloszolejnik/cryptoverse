@@ -14,7 +14,7 @@ function Navbar() {
                     <Link to="/">Cryptoverse</Link>
                 </Typography.Title>
             </div>
-            <Menu them="dark">
+            <Menu theme="dark">
                 <Menu.Item icon={<HomeOutlined />}>
                     <Link to="/">Home</Link>
                 </Menu.Item>
